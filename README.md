@@ -3,4 +3,6 @@
 prvni pokus
 druha zmena
 
-zmenaKonfliktPrvniVetev
+
+zmenaBezKonfliktuVetev
+
