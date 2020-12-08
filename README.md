@@ -3,4 +3,4 @@
 prvni pokus
 druha zmena
 
-zmenaPrvniVetev
+zmenaKonfliktTadyBudeKonfliktVetev
