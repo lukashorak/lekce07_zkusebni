@@ -6,3 +6,4 @@ druha zmena
 
 zmenaBezKonfliktuVetev
 
+zmena v SourceTree
