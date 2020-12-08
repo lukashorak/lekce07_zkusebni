@@ -6,3 +6,5 @@ druha zmena
 
 zmenaBezKonfliktuVetev
 
+zmena z IDEA
+
