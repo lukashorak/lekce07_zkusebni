@@ -8,3 +8,5 @@ zmenaBezKonfliktuVetev
 
 zmena z IDEA
 
+druha zmena z IDEA
+
